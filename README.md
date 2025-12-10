@@ -1,7 +1,3 @@
-Perfect — now that I can clearly see your **exact GitHub folder structure**, here is a clean, simple, accurate **README.md** written specifically for *your repo*.
-
-No exaggerations, no over-claims — just straightforward and modest.
-
 ---
 
 # 📩 SMS Spam Classification
